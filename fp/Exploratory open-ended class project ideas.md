@@ -1,4 +1,4 @@
-'Exploratory' /  'open-ended'class project ideas
+'Exploratory' /  'open-ended' class project ideas
 ================================================
 
 You aren't constrained to one, and this is in addition to reporting on your Folding@Home project summary:
