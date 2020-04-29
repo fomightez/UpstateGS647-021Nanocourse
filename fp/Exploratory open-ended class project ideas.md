@@ -26,8 +26,8 @@ Proteopedia's pages may offer some other ideas:
 - Outline a new test for detecting COVID-19 patients? (h/t to Alaji's nanocourse) How would it be better/complementary?
 
 - Do a virtual screening with protease or other SARS-CoV-2 proteins following the following reference tutorial and describe process and outcome on a page at Proteopedia:
-https://twitter.com/gxytraining/status/1244545901898727426    March 30 2020
->"Virtual screening of the SARS-CoV-2 main protease with rDock and pose scoring, a new tutorial by @SimonBray18 , https://training.galaxyproject.org/training-material/topics/computational-chemistry/tutorials/covid19-docking/tutorial.html #UseGalaxy #COVID19"
+https://twitter.com/gxytraining/status/1244545901898727426    March 30 2020  
+	>"Virtual screening of the SARS-CoV-2 main protease with rDock and pose scoring, a new tutorial by @SimonBray18 , https://training.galaxyproject.org/training-material/topics/computational-chemistry/tutorials/covid19-docking/tutorial.html #UseGalaxy #COVID19"
 
 - Examine electron density for some off residues in SARS-CoV-2 structures and make visuals in Proteopedia:
 
