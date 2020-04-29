@@ -101,7 +101,6 @@ Cell Research volume 30, pages 343–355(2020) https://www.nature.com/articles/s
 	[A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing](https://www.biorxiv.org/content/10.1101/2020.03.22.002386v3)
 
 
-Curated PDB entry collection in more context
---------------------------------------------
+### Curated PDB entry collection in more context
 
 In more context, and linking to Protoepdia content, than say the [PDBe-KB COVID-19 Data Portal](https://www.ebi.ac.uk/pdbe/covid-19)
