@@ -3,10 +3,10 @@
 
 You aren't constrained to one, and this is in addition to reporting on your Folding@Home project summary:
 
-- Make an animation to illustrate the Folding at Home process visually that we could add to some of the online material to represent the class's Folding at Home component. One idea would be to unfold a SARS-CoV-2 structure using the following and then just reverse the video:
+- Make an animation to illustrate the Folding@Home process visually that we could add to some of the online material to represent the class's Folding@Home component. One idea would be to unfold a SARS-CoV-2 structure using the following and then just reverse the frames to produce a video or gif file:
 	- http://proteopedia.org/wiki/index.php/Sculpting_protein_conformations
-	- http://proteopedia.org/wiki/index.php/User:Wayne_Decatur/Generate_Unfolded_Structures
-	Describe the process rbiefly in a page at Proteopedia.
+	- http://proteopedia.org/wiki/index.php/User:Wayne_Decatur/Generate_Unfolded_Structures  
+	Describe briefly the process of making the visuals in a page at Proteopedia.
 	
 - Expand on some topic or topic pages at Proteopedia.
 - Topic pages of Cryo-EM structues of SET1 family complexes (both yeast and human; h/t to Kevin Namitz's thesis seminar).
