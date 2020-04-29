@@ -96,7 +96,6 @@ Cell Research volume 30, pages 343–355(2020) https://www.nature.com/articles/s
 	>"This is a cautionary tale of how anti-Spike antibody may make COVID disease worse. In this study, the authors show that anti-Spike IgG made SARS-CoV disease worse by switching macrophage from wound-healing to proinflammatory phenotype. A thread (1/n)"
 
 - A topic page on SARS-CoV-2-human protein-protein interactions
-- 
 	https://twitter.com/DoctorBou/status/1242330062474469376    March 2020
 	>"We in @KroganLab spent two weeks mapping #SARSCoV2-human protein-protein interactions. My favorite interactions were with DNA polymerase (why??), the nuclear pore, the centrosome, and mitochondrial complexes. The resemblance to cancer biology is striking. Why? Pls comment!"
 	[A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing](https://www.biorxiv.org/content/10.1101/2020.03.22.002386v3)
