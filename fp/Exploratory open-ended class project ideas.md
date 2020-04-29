@@ -9,6 +9,7 @@ You aren't constrained to one, and this is in addition to reporting on your Fold
 	Describe the process rbiefly in a page at Proteopedia.
 	
 - Expand on some topic or topic pages at Proteopedia.
+- Topic pages of Cryo-EM structues of SET1 family complexes (both yeast and human; h/t to Kevin Namitz's thesis seminar).
 - Add an entire new topic page on something interesting to you. (Probably best done in your namespace first so you can move it when you are happy with it. And this way you'll know as you are planning it, no one can edit it to deviate from your vision.)
 - Add the details of making your homology model for Alaji's nanocourse and make some molecular structure scenes featuring some aspects of it that you would want to communicate to a reader/collaborator. (Probably best done in your namespace first so you can move it when you are happy with it. And this way you'll know as you are planning it, no one can edit it to deviate from your vision.) As an example sort of along those lines, see http://proteopedia.org/wiki/index.php/User:Wayne_Decatur/Sandbox_1_vs_21_vs_2_vs_12 which was a companion to an email discussion.
 - Make a full-featured interactive Proteopedia page to accompany a paper on SARS-CoV-2 or any article that interests you. (see 'Suggestions for material for making a Proteopedia page to accompany a paper on SARS-CoV-2' below)
