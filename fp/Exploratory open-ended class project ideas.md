@@ -19,6 +19,8 @@ Proteopedia's pages may offer some other ideas:
 * [Pages needing expansion‎](http://proteopedia.org/wiki/index.php/Pages_needing_expansion)
 * [Pages needing improvement‎](http://proteopedia.org/wiki/index.php/Pages_needing_improvement)
 
+- Demonstrate to the class in Chimera some of the visualization processes covered in Jmol or PyMOL part of the class.
+
 - Work out pseudocode for a task you do commonly and would like to automate? How to modularize? Any ideas on how to make any parts a relity? Where to run it?
 
 - Work out a computational workflow for some analysis involving SARS-CoV-2 or report on someone's. What would it take to install even some of the software? Could you get the software? Could you install it on a linux machine in the cloud? Your computer (theoretically)? 
